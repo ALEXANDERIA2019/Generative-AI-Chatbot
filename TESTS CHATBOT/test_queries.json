@@ -1,0 +1,78 @@
+[
+    {
+        "query": "What is the history of the Vistula University Library?",
+        "expected_answer": "The library was established on January 1, 1999, with the aim of facilitating access to information for students and staff. It has grown to a collection of over 100,000 books and hundreds of periodicals."
+    },
+    {
+        "query": "What are the library’s operating hours?",
+        "expected_answer": "The library is open Monday to Saturday from 9:00 AM to 5:00 PM. It is closed on Sundays."
+    },
+    {
+        "query": "Where is the library located?",
+        "expected_answer": "The library is located at Vistula University Group, 3 St. Stokłosy, 02-787 Warsaw, Poland."
+    },
+    {
+        "query": "Who can access the library?",
+        "expected_answer": "The library is open to students, faculty, and staff of Vistula University and Vistula School of Hospitality. External users may access the library's resources in the reading room."
+    },
+    {
+        "query": "What collections are available in the library?",
+        "expected_answer": "The library houses a collection of books on various topics including economics, law, marketing, psychology, tourism, and computer science. It also includes periodicals, e-books, multimedia, and doctoral theses."
+    },
+    {
+        "query": "How can I borrow a book?",
+        "expected_answer": "Books can be borrowed by university students, faculty, and administrative staff. Students of other universities can borrow books through the interlibrary exchange service."
+    },
+    {
+        "query": "Can I renew borrowed books?",
+        "expected_answer": "Books can be renewed by contacting library staff or via the online system, depending on the library’s policies."
+    },
+    {
+        "query": "Can I access online resources from home?",
+        "expected_answer": "Yes, you can access online journals and books through the library's digital resources portal, available to students and staff with university credentials."
+    },
+    {
+        "query": "How do I reserve a study room?",
+        "expected_answer": "Study rooms can be reserved via the library’s booking system, which is available through the university’s portal."
+    },
+    {
+        "query": "How much does it cost to print a page?",
+        "expected_answer": "Prices for services include printing, copying, and binding: B&W copy/A4: 0.30 PLN, Colored copy/A4: 0.60 PLN, Scanning/A4: 0.50 PLN, Binding (comb): 5.00 PLN, Laminating/A4: 1.50 PLN."
+    },
+    {
+        "query": "Are there any restrictions on what I can print?",
+        "expected_answer": "The library does not copy or print private notes, crib sheets, or test materials."
+    },
+    {
+        "query": "Does the library offer an interlibrary exchange service?",
+        "expected_answer": "Vistula University participates in interlibrary exchange, allowing users to borrow books from other libraries through a network of over 100 university libraries."
+    },
+    {
+        "query": "Is '1984' by George Orwell available?",
+        "expected_answer": "📖 1984 by George Orwell: Available - Call Number: 823 ORW"
+    },
+    {
+        "query": "Can I borrow 'To Kill a Mockingbird'?",
+        "expected_answer": "📖 To Kill a Mockingbird by Harper Lee: Checked Out - Due Date: 10th March"
+    },
+    {
+        "query": "Where can I find 'The Intelligent Investor'?",
+        "expected_answer": "📖 The Intelligent Investor by Benjamin Graham: Available - Call Number: 332.6 GRA"
+    },
+    {
+        "query": "Is 'Rich Dad Poor Dad' available?",
+        "expected_answer": "📖 Rich Dad Poor Dad by Robert Kiyosaki: Checked Out - Due Date: 5th March"
+    },
+    {
+        "query": "Do you have 'Cosmos' by Carl Sagan?",
+        "expected_answer": "📖 Cosmos by Carl Sagan: Checked Out - Due Date: 22nd March"
+    },
+    {
+        "query": "Can I check out 'Black Holes & Time Warps'?",
+        "expected_answer": "📖 Black Holes & Time Warps by Kip Thorne: Available - Call Number: 523.8 THO"
+    },
+    {
+        "query": "Do you have 'Evicted' by Matthew Desmond?",
+        "expected_answer": "📖 Evicted by Matthew Desmond: Available - Call Number: 339 DES"
+    }
+]
